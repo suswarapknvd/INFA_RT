@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "hUSPV1xVg61k07fwgd12sT",
+    "name" : "A_RT",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-04-27T11:01:34.332Z",
+  "objectRefs" : [ ]
+}
