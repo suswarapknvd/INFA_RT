@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "lEcuw6oKC2QjW5q1Y79KUL",
+    "name" : "tf_Test_Conn_Param_Via_TF",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2oPzjlybduaa-gt-14078-2023-05-11T04:45:03.867Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2024-04-27T11:10:58.062Z",
+  "objectRefs" : [ {
+    "id" : "3ooS5tgW1pcjuB3JWPdxAy",
+    "name" : "mt_Test_Conn_Param_Via_TF",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "015ZHE0Z0000000002VY"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/A_RT_TEST"
+  } ]
+}

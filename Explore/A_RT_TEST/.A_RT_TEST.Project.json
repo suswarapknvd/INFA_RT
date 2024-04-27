@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "jaT8Yo5VsAGhtW66oaO7Ej",
+    "name" : "A_RT_TEST",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-04-27T11:10:58.063Z",
+  "objectRefs" : [ ]
+}
